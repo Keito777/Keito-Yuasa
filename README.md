@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keito777&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keito777&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keito777&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 

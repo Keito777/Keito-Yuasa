@@ -1,1 +1,2 @@
-# Keito-Yuasa
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Yuasa}
+)](https://github.com/anuraghazra/github-readme-stats)

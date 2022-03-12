@@ -1,6 +1,6 @@
 <p align="left"> 
   <img alt="Top Langs" width="500" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keito777&layout=compact&show_icons=true&theme=maroongold" />
-  <img alt="github stats" width="507" height="170" src="https://github-readme-stats.vercel.app/api?username=Keito777&theme=outrun&show_icons=ture" />
+  <img alt="github stats" width="500" height="170" src="https://github-readme-stats.vercel.app/api?username=Keito777&theme=outrun&show_icons=ture" />
 </p>
 
 <img alt="trophy" width=1007 height=170 src="https://github-profile-trophy.vercel.app/?username=Keito777&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy">

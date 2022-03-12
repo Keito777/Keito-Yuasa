@@ -3,4 +3,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Keito777&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keito777&theme=dracula
+[![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keito777&theme=dracula)

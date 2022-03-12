@@ -3,7 +3,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Keito777&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keito777&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keito777&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keito777&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keito777&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keito777&theme=dracula)
 
 
 

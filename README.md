@@ -1,1 +1,1 @@
-https://github-profile-trophy.vercel.app/?username=Keito777&theme=algolia
+https://github-profile-trophy.vercel.app/?username=Keito777

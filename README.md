@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keito777&show_icons=true&theme=routrun)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keito777&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keito777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Keito777&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

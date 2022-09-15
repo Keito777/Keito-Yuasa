@@ -16,5 +16,4 @@ https://github-readme-stats.vercel.app/api?username=Keito777&count_private=true&
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keito777&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keito777&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keito777&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keito777&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keito777&theme=dracula)
+

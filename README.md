@@ -7,7 +7,7 @@
 
 ### 📊 GitHub Status 📋:
 
-![Keito's GitHub stats](https://github-readme-stats.vercel.app/api?custom_title=Keito's%20GitHub%20Status&username=Keito777&count_private=true&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=Keito777&count_private=true&show_icons=true&theme=dracula
 
 ### 🏆 Trophy 🏆 :
 

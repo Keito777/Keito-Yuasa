@@ -11,7 +11,11 @@ https://github-readme-stats.vercel.app/api?username=Keito777&count_private=true&
 
 ### 🏆 Trophy 🏆 :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoshinori-koide&no-frame=true&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ユーザ名&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Keito777/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/Keito777/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Keito777&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 

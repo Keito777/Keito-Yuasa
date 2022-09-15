@@ -8,3 +8,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keito777&theme=monokai)
 
 
+[![github-chart](https://github-chart.vercel.app/api?user=Keito777)](https://github.com/rokumura7/github-chart)

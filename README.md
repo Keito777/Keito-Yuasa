@@ -1,4 +1,4 @@
-# 👋　welcome to my profile　👋
+# 👋　Welcome to my profile　👋
 
 ## Most Used Languages & GitHub Status
 <p align="left"> 

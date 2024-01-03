@@ -1,4 +1,4 @@
-# 🏆Keito_Yuasa Profile🔥
+# 👋🐉　Welcome to my profile　👋🐲
 
 ## Most Used Languages & GitHub Status
 <p align="left"> 
@@ -6,5 +6,5 @@
   <img alt="github status" height="150" src="https://github-readme-stats.vercel.app/api?username=Keito777&theme=outrun&show_icons=ture" />
 </p>
 
-## 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keito777&theme=monokai)
+## Contributions
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keito777&theme=gruvbox)
